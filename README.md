@@ -1,6 +1,6 @@
-# 4-hovfree
+# hf
 
-> A Vue.js project
+> vue
 
 ## Build Setup
 
